@@ -17,14 +17,14 @@
 
 **Languages and Tools:**  
 
-<code><img height="25" alt="Python" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/python.svg"></code>
-<code><img height="30" alt="Natural Language Processing" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/ML.jpg"></code>
-<code><img height="25" alt="Flask" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/flask.png"></code>
-<code><img height="25" alt="MySQL" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/mysql.png"></code>
-<code><img height="25" alt="JavaScript" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/javascript.svg"></code>
-<code><img height="25" alt="NodeJS" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/nodejs.svg"></code>
-<code><img height="25" alt="MongoDB" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/mongodb.png"></code>
-<code><img height="25" alt="Java" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/java.svg"></code>
+<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/python.svg"></code>
+<code><img height="40" alt="Natural Language Processing" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/ML.jpg"></code>
+<code><img height="40" alt="Flask" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/flask.png"></code>
+<code><img height="40" alt="MySQL" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/mysql.png"></code>
+<code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/javascript.svg"></code>
+<code><img height="40" alt="NodeJS" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/nodejs.svg"></code>
+<code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/mongodb.png"></code>
+<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/java.svg"></code>
 
 <!--
 **Komal97/Komal97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
