@@ -29,6 +29,11 @@
 <code><img height="40" alt="Natural Language Processing" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/ML.jpg"></code>
 <code><img height="40" alt="Git" src="https://raw.githubusercontent.com/Komal97/Komal97/main/assets/git.png"></code>
 
+<div align="center">
+  
+![Komal's github stats](https://github-readme-stats.vercel.app/api?username=komal97&show_icons=true&theme=radical)
+
+</div>
 <!--
 **Komal97/Komal97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
